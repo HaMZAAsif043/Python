@@ -25,12 +25,13 @@ To get a copy of this repository up and running on your local machine, follow th
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/python-projects-and-practice.git
+   git clone https://github.com/HaMZAAsif043/Python.git
    ```
 
 2. Navigate to the repository directory
    ```bash
-   cd python-projects-and-practice
+   cd projects
+   
    ```
 
 ## How to Use
